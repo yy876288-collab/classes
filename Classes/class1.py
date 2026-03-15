@@ -26,6 +26,7 @@ print(s1.name)
 print(s2.name)
 print(s2.age)
 print(s2==s3)
+print(s1==s3)
 
 
 
